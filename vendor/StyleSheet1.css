@@ -1,0 +1,48 @@
+﻿body {
+    background-image: url('images/blue_ocean_aesthetic_background-wallpaper-3554x1999.jpg');
+    height: auto;
+    background-repeat: no-repeat;
+}
+
+#reset_button {
+    display: block;
+    margin: auto auto;
+    width: 10%;
+    height: auto;
+}
+
+#HyperLink1 {
+    display: block;
+    margin: 0 auto;
+    top: 225px;
+    text-align: center;
+    position: relative
+}
+
+.butto {
+    display: inline-block;
+    margin: 0 5px;
+    position: relative;
+    align-content: space-around;
+    align-items: center;
+    padding: 7px 7px;
+}
+.ImageChoice {
+    display: block;
+    margin: auto auto;
+    width: 63%;
+    height: auto;
+}
+
+.ImageChoiceV {
+    display: block;
+    margin: auto auto;
+    width: auto;
+    height: 75%;
+    max-height: 720px;
+}
+
+.link1 {
+    margin: 5px 5px;
+    font-size: 30px;
+}
